@@ -1,0 +1,19 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:knight-brian.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:knight-brian.github.io#55089a66d66a7207850317baf6bfe50662cd3bb27921a0dbded94aa777346552",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:knight-brian.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "iAJH6m67gOf8rtVhbkqnqaQRsRebG-4YuYG4S39pdLI=",
+        "y": "ro7mQEmPb6b7_ShyvbWXppS4GDiTbxoMGbVRrE9DADo=",
+        "kid": "55089a66d66a7207850317baf6bfe50662cd3bb27921a0dbded94aa777346552",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
